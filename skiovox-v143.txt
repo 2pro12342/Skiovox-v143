@@ -21,15 +21,27 @@ B. 4: go to the WiFi Panel and add your WiFi.
 5: When connected to Wifi, Change DNS to "150.136.163.0" and the 2nd-4th boxes to "0.0.0.0". 
 (It should give a WiFi Network sign-in with a warning sign as an icon) 
 6: Go to any Kiosk app. 
+
+Way #1: 
 7: When it says "Internet Not Found", click the sign-in to network button. 
-8: Go to "github.com/2pro12342/Skiovox-v143" and download the HTML file. 
+8: Go to "github.com/2pro12342/Skiovox-v143" and download the HTML file. (V1 or V2)
 9: When downloaded, click the "X" button on the window. 
 10: Click "Certificates" button next to Diagnose.
 (It should open a menu).
 11: Find a button "Import", "Export", or "Download".
 (It should open file manager). 
 12: Look in your downloads and double click on the HTML file that you downloaded. 
-13: profit 
+(If it didn't work/open any file, try Way #2) 
+
+Way #2: 
+7: When it says "Internet Not Found", click the sign-in to network button. 
+8: Go to "github.com/2pro12342/Skiovox-v143" and download the HTML file. (V1 or V2)
+9: When downloaded, click the "X" button on the window. 
+10: Click the Back button or reset you dns wifi. 
+Quickly do these Steps! 
+11: Click "Certificates" button next to Diagnose.
+12: Find a button "Import", "Export", or "Download".
+13: Look in your downloads and double click on the HTML file that you downloaded. 
 
 Credits: 
 2pro12342 - Found the File Manager and Skiovox V141.
